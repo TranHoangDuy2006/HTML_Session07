@@ -1,0 +1,181 @@
+.main-container
+{
+    width: 450px;
+
+    height: 500px;
+
+    background-color: rgb(255, 255, 255);
+
+    border: 1px solid #d3d3d3;
+
+    border-radius: 8px;
+}
+
+.box
+{
+    width: 450px;
+
+    height: 50px;
+
+    background-color: rgb(255, 255, 255);
+}
+
+hr
+{
+    display: flex;
+
+    flex-direction: column;
+
+    align-items: center;
+}
+
+span
+{
+    font-weight: lighter;
+
+    color: #4079ff;
+}
+
+.another
+{
+    height: 70px;
+}
+
+.limit
+{
+    width: 400px;
+}
+
+.text-design
+{
+    padding-left: 20px;
+}
+
+.color-gray
+{
+    color: gray;
+}
+
+.color-black
+{
+    color: black;
+
+    font-weight: 550;
+}
+
+.design-type-1
+{
+    display: flex;
+
+    justify-content: space-between;
+
+    align-items: center;          
+    
+    text-align: center; 
+}
+
+.mini-box
+{
+    display: flex;
+    
+    justify-content: flex-start; 
+    
+    align-items: center; 
+    
+    padding-left: 10px;
+    
+    height: 40px;
+
+    background-color: rgb(255, 255, 255);
+}
+
+p
+{
+    margin: 20px 0 20px 20px;
+
+    font-size: 18px;
+}
+
+.button-style
+{
+    margin: 10px 20px 10px 10px; 
+    
+    padding: 7px 15px 7px 15px;
+
+    border-radius: 6px;
+
+    color: #bd3804;
+
+    background-color: white;
+
+    border-color: #ffc97e;
+
+    font-weight: bold;
+}
+
+.btn 
+{
+    position: absolute;
+    
+    width: 380px;
+    
+    height: 10px;
+
+    margin-left: 20px;
+
+    border: none;
+
+    border-radius: 8px;
+}
+
+.first-btn 
+{
+    background: #ff8000;
+
+    opacity: 2.0;
+
+    width: 300px;
+}
+
+.second-btn 
+{
+    background: #ffeec9;
+    
+    opacity: 0.6; 
+}
+
+.end-text-ds
+{
+    margin-left: 20px;
+}
+
+img
+{
+    width: 40px;
+
+    border: none;
+
+    border-radius: 25px;
+
+    margin-left: 20px;
+}
+
+.near-ds
+{
+    position: absolute;
+
+    left: 34px;
+}
+
+.ds-type-2
+{
+    position: absolute;
+
+    left: 313px;
+
+    font-size: 18px;
+
+    top: 463px;
+}
+
+

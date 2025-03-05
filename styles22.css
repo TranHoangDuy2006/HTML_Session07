@@ -1,0 +1,40 @@
+.container
+{
+    width: 420px;
+
+    height: 750px;
+
+    background-color: #ffffff;
+}
+
+.box
+{
+    height: 60px;
+
+    background-color: rgb(255, 255, 255);
+
+    width: 410px;
+
+    border-left: 7px solid #ff6017;
+}
+
+h1
+{
+    padding: 10px 0 10px 20px;
+
+    font-family: sans-serif;
+}
+
+img
+{
+    width: 400px;
+
+    margin-top: 20px;
+}
+
+.text_design
+{
+    font-weight: 460;
+
+    margin-top: 30px;
+}

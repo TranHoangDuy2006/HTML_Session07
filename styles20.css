@@ -1,0 +1,50 @@
+.box
+{
+    width: 1200px;
+
+    height: 150px;
+
+    background-color: #ebebeb;
+
+    padding: 20px 20px 20px 20px;
+}
+
+.box1
+{
+    width: 350px;
+
+    height: 75px;
+}
+
+button
+{
+    width: 250px;
+
+    height: 150px;
+
+    border: 2px solid #c1bcd1;
+
+    border-radius: 5px;
+
+    margin-right: 45px;
+
+    background-color: #ffffff;
+}
+
+.type1
+{
+    color: #bd222a; 
+
+    font-size: 20px;
+
+    font-weight: bold;
+
+    font-family: 'Roboto', sans-serif;
+}
+
+.type2
+{
+    line-height: 1.2;
+
+    letter-spacing: 0.5px;
+}
